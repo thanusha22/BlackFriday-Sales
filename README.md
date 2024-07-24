@@ -51,10 +51,10 @@ This data set has 12 columns and 550, 069 rows. Below are the columns present in
 Purchase is the target variable. There are 4 continuous variables and 8 categorical variables.
 
 Models Evaluated: 
-Linear Regression
-Decision Tree Regression
-Random Forest Regression (Best Performance: Accuracy of 86%)
-XGBoost Regression
+1. Linear Regression
+2. Decision Tree Regression
+3. Random Forest Regression (Best Performance: Accuracy of 86%)
+4. XGBoost Regression
 
 
 Key Findings
